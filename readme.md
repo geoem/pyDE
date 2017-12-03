@@ -23,6 +23,6 @@ python pyde.py
 
 ### Author ###
 
-    Manolis Georgioudakis (geoem@mail.ntua.gr)
+Manolis Georgioudakis (geoem@mail.ntua.gr)
 
 Copyright: 2017
